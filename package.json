@@ -1,7 +1,7 @@
 {
   "name": "@aetna-digital-infrastructure/dfp-gitops-package-template",
   "version": "1.0.1",
-  "description": "This contains a gitops package for the Confluent distribution. See the Confluent Operator docuemntation:",
+  "description": "Test",
   "main": "index.js",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aetna-digital-infrastructure/dfp-gitops-package-template.git"
+    "url": "git+https://github.com/slynch00/test-package-repository.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aetna-digital-infrastructure/dfp-gitops-package-template/issues"
+    "url": "https://github.com/slynch00/test-package-repository/issues"
   },
-  "homepage": "https://github.com/aetna-digital-infrastructure/dfp-gitops-package-template#readme",
+  "homepage": "https://github.com/slynch00/test-package-repository#readme",
   "dependencies": {
-    "@aetna-digital-infrastructure/dfp-gitops-cluster-utils-publish": "1.0.0"
+    "@slynch00/dfp-gitops-cluster-utils-publish": "1.0.0"
   }
 }
