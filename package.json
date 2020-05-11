@@ -1,5 +1,5 @@
 {
-  "name": "@aetna-digital-infrastructure/dfp-gitops-package-template",
+  "name": "@slynch00/dfp-gitops-package-template",
   "version": "1.0.1",
   "description": "Test",
   "main": "index.js",
